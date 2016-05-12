@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "ZQCuteView"
-  s.version      = "1.0.0"
+  s.version      = "1.0"
   s.summary      = "粘糖动画view，能响应事件，设置背景图。"
   s.description   = "ZQCuteView，能响应事件，设置背景图。"
   s.requires_arc  = true
