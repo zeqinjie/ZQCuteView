@@ -6,7 +6,7 @@
 
 使用CocoaPods:
 
-platform :ios, '7.0'
+platform :ios, '7.0' \n
 pod 'ZQCuteView'
 ***
 <pre>
