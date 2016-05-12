@@ -8,9 +8,9 @@
 
 platform :ios, '7.0'
 pod 'ZQCuteView'
-导入头文件：
 ***
 <pre>
+导入头文件：
 #import "ZQCuteView.h"
 申明变量：
 
