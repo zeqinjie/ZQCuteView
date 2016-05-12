@@ -1,3 +1,4 @@
+<pre>
 ZQCuteView
 基于UITextView，增加placeholder功能，增加限制text的输入字数功能
 
@@ -31,7 +32,7 @@ pod 'ZQCuteView'
         NSLog(@"hello zzq");
     };
 }
-
+</pre>
 协议（Licenses）
 
 ZQCuteView 被许可在 MIT 协议下使用。查阅 LICENSE 文件来获得更多信息。
